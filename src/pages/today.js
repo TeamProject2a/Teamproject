@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 
-
 // mysql 연동 과정
 
 import "../styles/App.css";
