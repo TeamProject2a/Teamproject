@@ -9,7 +9,7 @@
 -
 -
 -
-- ***
+***
 
 ## :family: 멤버
 
@@ -17,12 +17,15 @@
 
 - :boy:[이승엽](https://github.com/SEUNGBOONG)
 -
-- ***
+-
+***
 
 ### :cherries: 프론트
 
 - :boy:[이승엽](https://github.com/SEUNGBOONG)
-- ***
+-
+-
+***
 
 ## STACK
 
